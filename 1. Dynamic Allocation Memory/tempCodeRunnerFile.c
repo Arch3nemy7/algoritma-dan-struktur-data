@@ -1,0 +1,2 @@
+
+        strcpy(pblok,s1);
